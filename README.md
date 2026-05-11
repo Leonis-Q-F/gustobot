@@ -35,7 +35,7 @@
 - **安全防护机制**：Guardrails 层确保问题在服务范围内，拒绝越界查询
 
 ### 核心功能
- 
+
 | 功能模块 | 说明 | 技术实现 |
 |---------|------|---------|
 | **智能路由** | 自动识别问题类型，路由到合适的处理模块 | 启发式路由 + LLM 结构化输出 |
@@ -172,7 +172,7 @@ npm run dev
 # 前端: http://localhost:5173 （可通过 VITE_PORT 修改端口）
 # 后端API: http://localhost:8000
 ```
- 
+
 ---
 
 
@@ -402,8 +402,6 @@ graph TB
 <div align="center">
 
 **SmartRecipe** - 让AI成为您的私人厨房客服
-
-Made with Love by SmartRecipe Team
 
 [回到顶部](#smartrecipebot)
 
